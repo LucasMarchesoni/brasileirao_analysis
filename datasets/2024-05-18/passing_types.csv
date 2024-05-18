@@ -1,0 +1,460 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches,Curr_Date
+1,Abner,br BRA,MF,Juventude,20-029,2004,0.1,8,7,1,1,0,1,0,0,0,0,0,0,8,0,0,Matches,2024-05-18
+2,Luiz Adriano,br BRA,FW,Vitória,37-036,1987,0.8,15,13,2,0,0,0,0,0,0,0,0,0,14,0,0,Matches,2024-05-18
+3,Adson,br BRA,"FW,MF",Vasco da Gama,23-225,2000,1.2,73,72,1,0,0,0,5,1,0,0,0,0,60,0,2,Matches,2024-05-18
+4,Lucas Alario,ar ARG,"FW,MF",Internacional,31-223,1992,0.5,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1,Matches,2024-05-18
+5,Yuri Alberto,br BRA,FW,Corinthians,23-061,2001,2.4,36,32,4,0,0,0,0,0,0,0,0,0,27,0,1,Matches,2024-05-18
+6,Alerrandro,br BRA,FW,Vitória,24-127,2000,3.1,57,46,11,1,0,0,1,0,0,0,0,0,37,0,2,Matches,2024-05-18
+7,Caio Alexandre,br BRA,MF,Bahia,25-084,1999,4.9,323,304,17,16,1,1,1,1,0,0,0,0,295,2,3,Matches,2024-05-18
+8,Matheus Alexandre,br BRA,DF,Cuiabá,25-041,1999,3.0,124,102,22,1,0,0,5,21,0,0,0,0,98,0,5,Matches,2024-05-18
+9,Alexsander,br BRA,MF,Fluminense,20-223,2003,1.6,95,91,4,2,0,1,1,1,1,1,0,0,81,0,4,Matches,2024-05-18
+10,Alisson,br BRA,GK,Criciúma,28-345,1995,2.0,57,31,25,4,0,0,0,0,0,0,0,0,41,1,0,Matches,2024-05-18
+11,Alisson,br BRA,"DF,MF",Atlético Mineiro,18-240,2005,1.4,59,51,8,0,0,2,10,1,7,6,0,0,47,0,3,Matches,2024-05-18
+12,Alisson,br BRA,MF,São Paulo,30-328,1993,5.7,399,388,9,7,1,4,5,1,0,0,0,0,352,2,2,Matches,2024-05-18
+13,Allan,br BRA,MF,Flamengo,27-076,1997,3.8,183,174,9,7,1,0,3,1,0,0,0,0,153,0,3,Matches,2024-05-18
+14,Anderson,br BRA,GK,Cruzeiro,26-074,1998,5.0,117,89,28,4,0,1,0,0,0,0,0,0,97,0,0,Matches,2024-05-18
+15,Kervin Andrade,ve VEN,MF,Fortaleza,19-035,2005,0.8,23,20,3,0,0,0,4,0,3,2,0,0,14,0,1,Matches,2024-05-18
+16,Rodrigo Andrade,br BRA,"MF,FW",Vitória,26-349,1997,2.6,103,100,1,1,0,0,0,0,0,0,0,0,91,2,1,Matches,2024-05-18
+17,André,br BRA,"MF,DF",Fluminense,22-307,2001,3.0,233,225,8,8,0,1,0,0,0,0,0,0,214,0,3,Matches,2024-05-18
+18,Wilker Ángel,ve VEN,DF,Criciúma,31-061,1993,0.8,21,20,1,1,0,0,0,0,0,0,0,0,17,0,0,Matches,2024-05-18
+19,Guilherme Arana,br BRA,DF,Atlético Mineiro,27-034,1997,4.1,312,280,31,2,0,5,23,28,1,0,1,0,258,1,9,Matches,2024-05-18
+20,Luiz Araújo,br BRA,"FW,MF",Flamengo,27-351,1996,4.0,118,107,11,2,0,3,16,2,7,4,2,0,79,0,8,Matches,2024-05-18
+21,Michel Araujo,uy URU,"DF,MF",São Paulo,27-233,1996,2.7,156,135,21,3,0,1,10,14,4,0,4,0,138,0,1,Matches,2024-05-18
+22,Robert Arboleda,ec ECU,DF,São Paulo,32-209,1991,6.0,437,423,14,14,0,1,0,0,0,0,0,0,396,0,1,Matches,2024-05-18
+23,Lucas Arcanjo,br BRA,GK,Vitória,25-284,1998,5.0,125,76,48,9,0,0,0,0,0,0,0,0,81,1,0,Matches,2024-05-18
+24,Jhon Arias,co COL,FW,Fluminense,26-240,1997,6.0,262,252,9,3,1,0,17,2,4,3,0,0,220,1,8,Matches,2024-05-18
+25,Santiago Arias,co COL,DF,Bahia,32-126,1992,6.0,322,267,55,2,0,0,15,53,0,0,0,0,269,0,7,Matches,2024-05-18
+26,Arthur,br BRA,FW,Cruzeiro,25-320,1998,3.8,104,102,2,1,0,0,9,1,0,0,0,0,77,0,5,Matches,2024-05-18
+27,Arthur,br BRA,"FW,MF",Criciúma,31-338,1992,1.0,24,23,1,0,0,0,0,0,0,0,0,0,21,0,1,Matches,2024-05-18
+28,Filipe Augusto,br BRA,MF,Cuiabá,30-280,1993,0.2,9,9,0,0,1,0,0,0,0,0,0,0,9,0,0,Matches,2024-05-18
+29,Renato Augusto,br BRA,"FW,MF",Fluminense,36-100,1988,0.7,32,32,0,0,1,0,1,0,0,0,0,0,25,0,1,Matches,2024-05-18
+30,Gabriel Baralhas,br BRA,MF,Atl Goianiense,25-221,1998,3.6,126,122,3,1,0,2,3,2,0,0,0,0,103,1,3,Matches,2024-05-18
+31,Danilo Barbosa,br BRA,MF,Botafogo (RJ),28-080,1996,3.5,171,167,4,4,0,0,0,0,0,0,0,0,149,0,3,Matches,2024-05-18
+32,Diogo Barbosa,br BRA,DF,Fluminense,31-275,1992,1.7,70,63,7,1,0,0,2,6,0,0,0,0,57,0,2,Matches,2024-05-18
+33,Gabriel Barbosa,br BRA,FW,Flamengo,27-262,1996,0.5,5,4,1,0,0,0,0,0,0,0,0,0,5,0,0,Matches,2024-05-18
+34,Lucas Barbosa,br BRA,"MF,FW",Juventude,23-086,2001,3.3,118,114,3,0,0,2,7,1,0,0,0,0,79,1,5,Matches,2024-05-18
+35,Alexander Barboza,ar ARG,"DF,FW",Botafogo (RJ),29-063,1995,1.4,82,79,3,3,0,0,0,0,0,0,0,0,68,0,0,Matches,2024-05-18
+36,Mateo Barcia,uy URU,MF,Criciúma,23-089,2001,0.1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Matches,2024-05-18
+37,Álvaro Barreal,ar ARG,"MF,FW",Cruzeiro,23-275,2000,2.2,103,98,5,0,0,0,10,3,2,0,2,0,69,0,3,Matches,2024-05-18
+38,Barreto,br BRA,MF,Criciúma,28-160,1995,2.9,97,92,5,5,1,0,0,0,0,0,0,0,88,0,3,Matches,2024-05-18
+39,Gabriel Barros,br BRA,"FW,MF",Atl Goianiense,22-206,2001,0.9,24,23,1,0,0,1,2,1,0,0,0,0,18,0,1,Matches,2024-05-18
+40,Bastos,ao ANG,DF,Botafogo (RJ),33-052,1991,5.4,315,307,7,7,0,0,0,0,0,0,0,0,292,1,2,Matches,2024-05-18
+41,Rodrigo Battaglia,ar ARG,DF,Atlético Mineiro,32-311,1991,2.4,144,135,9,9,0,0,0,0,0,0,0,0,125,0,1,Matches,2024-05-18
+42,José Luis Rodríguez Bebanz,uy URU,FW,Vasco da Gama,27-065,1997,0.0,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches,2024-05-18
+43,Ramiro Benetti,br BRA,MF,Cruzeiro,30-362,1993,2.4,114,109,4,2,0,0,3,2,0,0,0,0,92,1,3,Matches,2024-05-18
+44,Bento,br BRA,GK,Ath Paranaense,24-343,1999,6.0,145,96,48,7,0,0,0,0,0,0,0,0,102,1,1,Matches,2024-05-18
+45,Raul Bicalho,br BRA,DF,Corinthians,25-024,1999,1.0,61,60,1,1,0,2,1,0,0,0,0,0,49,0,0,Matches,2024-05-18
+46,Matheus Bidu,br BRA,DF,Corinthians,25-014,1999,0.2,9,8,1,0,0,0,0,1,0,0,0,0,9,0,0,Matches,2024-05-18
+47,Biel,br BRA,"FW,MF",Bahia,23-047,2001,1.6,49,48,1,0,0,2,2,1,0,0,0,0,38,0,5,Matches,2024-05-18
+48,Guilherme Biro,br BRA,MF,Corinthians,20-028,2004,0.1,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches,2024-05-18
+49,Damián Bobadilla,py PAR,MF,São Paulo,22-312,2001,2.1,105,101,4,2,1,0,4,2,0,0,0,0,95,0,1,Matches,2024-05-18
+50,Yannick Bolasie,cd COD,FW,Criciúma,34-360,1989,1.9,38,36,2,0,0,0,2,1,0,0,0,0,27,0,2,Matches,2024-05-18
+51,Thiago Borbas,uy URU,FW,Red Bull Bragantino,22-041,2002,2.2,31,31,0,0,0,0,0,0,0,0,0,0,16,0,2,Matches,2024-05-18
+52,Marllon Borges,br BRA,DF,Cuiabá,32-032,1992,4.0,165,149,16,16,0,0,0,0,0,0,0,0,140,0,4,Matches,2024-05-18
+53,Pedro Borges,br BRA,MF,Fortaleza,27-076,1997,2.4,92,92,0,0,0,0,1,0,0,0,0,0,69,0,1,Matches,2024-05-18
+54,Rafael Borré,co COL,FW,Internacional,28-246,1995,4.0,67,60,5,0,0,0,3,0,1,0,0,0,54,2,0,Matches,2024-05-18
+55,Danilo Boza,br BRA,DF,Juventude,26-012,1998,3.0,177,163,14,12,0,0,0,2,0,0,0,0,164,0,2,Matches,2024-05-18
+56,Breno,br BRA,FW,Fortaleza,28-115,1996,2.1,49,49,0,0,0,0,2,0,0,0,0,0,35,0,0,Matches,2024-05-18
+57,Breno,br BRA,MF,Corinthians,19-088,2005,2.9,111,106,4,4,0,2,1,0,0,0,0,0,91,1,2,Matches,2024-05-18
+58,Emanuel Brítez,ar ARG,DF,Fortaleza,32-053,1992,4.0,105,95,10,7,0,0,0,3,0,0,0,0,69,0,1,Matches,2024-05-18
+59,Bruninho,br BRA,"FW,MF",Red Bull Bragantino,21-065,2003,0.9,30,29,1,1,0,2,0,0,0,0,0,0,24,0,0,Matches,2024-05-18
+60,Fabrício Bruno,br BRA,DF,Flamengo,28-096,1996,5.0,312,290,20,17,0,2,0,1,0,0,0,0,281,2,2,Matches,2024-05-18
+61,Fabricio Bustos,ar ARG,"DF,MF",Internacional,28-020,1996,3.2,211,181,30,2,0,1,12,27,1,0,0,0,169,0,5,Matches,2024-05-18
+62,Rafael Cabral,br BRA,GK,Grêmio,33-364,1990,1.0,21,12,9,1,0,0,0,0,0,0,0,0,16,0,0,Matches,2024-05-18
+63,Cacá,br BRA,DF,Corinthians,25-023,1999,2.8,130,125,5,5,0,0,0,0,0,0,0,0,114,0,2,Matches,2024-05-18
+64,Jonathan Cafu,br BRA,"MF,FW",Cuiabá,32-313,1991,1.1,29,28,1,0,0,0,3,1,0,0,0,0,18,0,1,Matches,2024-05-18
+65,Jonathan Calleri,ar ARG,FW,São Paulo,30-238,1993,4.4,81,76,5,0,0,0,4,0,0,0,0,0,47,0,5,Matches,2024-05-18
+66,Patric Calmon PK,br BRA,DF,Vitória,29-318,1994,1.5,78,56,22,3,0,0,9,19,0,0,0,0,55,0,2,Matches,2024-05-18
+67,Camutanga,br BRA,DF,Vitória,30-234,1993,2.0,76,69,7,6,0,0,0,1,0,0,0,0,68,0,1,Matches,2024-05-18
+68,Yerson Candelo,co COL,DF,Criciúma,32-084,1992,0.3,23,16,7,1,0,0,3,6,0,0,0,0,19,0,1,Matches,2024-05-18
+69,Luan Cândido,br BRA,DF,Red Bull Bragantino,23-106,2001,6.0,205,174,31,5,0,2,1,26,0,0,0,0,145,0,3,Matches,2024-05-18
+70,Germán Cano,ar ARG,"FW,MF",Fluminense,36-106,1988,4.6,89,74,15,0,0,5,2,0,0,0,0,0,66,0,4,Matches,2024-05-18
+71,Agustín Canobbio,uy URU,"FW,MF",Ath Paranaense,25-230,1998,3.3,89,86,3,0,1,0,3,2,1,0,0,1,71,0,6,Matches,2024-05-18
+72,Juninho Capixaba,br BRA,"DF,MF",Red Bull Bragantino,26-317,1997,3.8,170,130,40,7,0,1,5,31,0,0,0,0,105,0,5,Matches,2024-05-18
+73,Carlinhos,br BRA,"FW,DF",Flamengo,27-096,1997,0.7,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches,2024-05-18
+74,Antonio Carlos,br BRA,DF,Fluminense,31-072,1993,1.5,84,78,6,3,0,1,0,0,0,0,0,0,73,0,1,Matches,2024-05-18
+75,Jean Carlos Vicente,br BRA,"FW,MF",Juventude,32-093,1992,2.3,99,89,10,2,0,1,12,2,6,3,3,0,61,0,3,Matches,2024-05-18
+76,Cássio,br BRA,GK,Corinthians,36-347,1987,3.0,88,61,26,7,0,0,0,0,0,0,0,0,71,1,0,Matches,2024-05-18
+77,Iury de Castilho,br BRA,"FW,MF",Vitória,28-255,1995,0.8,25,24,1,0,0,0,1,1,0,0,0,0,21,0,2,Matches,2024-05-18
+78,Murilo Cerqueira,br BRA,DF,Palmeiras,27-052,1997,4.8,218,214,4,4,0,2,0,0,0,0,0,0,182,0,0,Matches,2024-05-18
+79,Reynaldo Cesar Moraes,br BRA,DF,Vitória,27-136,1997,1.9,60,56,4,4,0,0,0,0,0,0,0,0,50,0,3,Matches,2024-05-18
+80,Christian,br BRA,"FW,MF",Ath Paranaense,23-151,2000,1.2,43,42,1,1,0,0,1,0,0,0,0,0,36,0,2,Matches,2024-05-18
+81,Eliel Chrystian,br BRA,MF,Cuiabá,21-113,2003,0.5,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches,2024-05-18
+82,Cicinho,bg BUL,MF,Bahia,35-144,1988,0.0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Matches,2024-05-18
+83,José Cifuentes,ec ECU,MF,Cruzeiro,25-067,1999,0.8,39,39,0,0,0,0,0,0,0,0,0,0,28,0,0,Matches,2024-05-18
+84,Claudinho,br BRA,DF,Criciúma,23-237,2000,2.7,151,122,28,9,0,2,7,17,2,1,1,0,128,1,2,Matches,2024-05-18
+85,Clayson,br BRA,MF,Cuiabá,29-060,1995,2.0,48,45,3,0,0,0,2,1,2,1,1,0,35,0,4,Matches,2024-05-18
+86,Clayton,br BRA,FW,Vasco da Gama,25-128,1999,0.6,12,11,1,0,0,0,0,1,0,0,0,0,9,0,0,Matches,2024-05-18
+87,Mateus Cocão,br BRA,MF,Vasco da Gama,22-061,2002,3.2,201,193,6,3,0,1,1,3,0,0,0,0,169,2,7,Matches,2024-05-18
+88,Igor Coronado,br BRA,"MF,FW",Corinthians,31-274,1992,2.0,96,87,9,4,0,1,15,1,4,1,3,0,65,0,6,Matches,2024-05-18
+89,Diego Costa,es ESP,FW,Grêmio,35-224,1988,1.3,25,21,4,0,0,0,1,0,0,0,0,0,19,0,0,Matches,2024-05-18
+90,Douglas Costa,br BRA,FW,Fluminense,33-247,1990,1.8,114,102,12,3,0,1,14,1,8,4,1,0,82,0,3,Matches,2024-05-18
+91,Franco Cristaldo,ar ARG,MF,Grêmio,27-277,1996,3.1,163,139,24,11,0,2,14,2,11,2,4,1,129,0,2,Matches,2024-05-18
+92,Alejo Cruz,uy URU,MF,Atl Goianiense,23-260,2000,1.7,47,45,2,0,0,0,5,1,1,0,0,0,36,0,2,Matches,2024-05-18
+93,Tomás Cuello,ar ARG,"FW,MF",Ath Paranaense,24-074,2000,3.8,132,126,5,1,0,1,8,3,1,1,0,0,101,1,5,Matches,2024-05-18
+94,Víctor Cuesta,ar ARG,DF,Bahia,35-181,1988,2.7,109,103,6,6,0,0,1,0,0,0,0,0,98,0,1,Matches,2024-05-18
+95,Cuiabano,br BRA,DF,Grêmio,21-092,2003,1.8,106,83,23,3,0,0,2,20,0,0,0,0,77,0,6,Matches,2024-05-18
+96,Cuiabano,br BRA,DF,Botafogo (RJ),21-092,2003,1.5,74,60,14,1,0,0,11,13,0,0,0,0,55,0,1,Matches,2024-05-18
+97,Lucas Cunha,br BRA,DF,Red Bull Bragantino,27-116,1997,0.3,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches,2024-05-18
+98,Danielzinho,br BRA,MF,Atl Goianiense,28-128,1996,0.2,22,18,4,1,0,0,2,1,1,1,0,0,16,0,1,Matches,2024-05-18
+99,David,br BRA,FW,Vasco da Gama,28-214,1995,5.7,157,151,5,1,1,0,8,2,2,0,2,0,123,1,7,Matches,2024-05-18
+100,Giorgian De Arrascaeta,uy URU,MF,Flamengo,29-352,1994,2.8,118,100,18,8,0,0,14,0,5,5,0,0,92,0,1,Matches,2024-05-18
+101,Nicolás De La Cruz,uy URU,MF,Flamengo,26-352,1997,5.0,319,274,44,14,1,1,25,0,28,9,9,1,255,1,2,Matches,2024-05-18
+102,Denilson,br BRA,MF,Cuiabá,23-056,2001,2.5,109,103,6,3,0,2,5,0,3,2,0,0,91,0,2,Matches,2024-05-18
+103,Derek,br BRA,FW,Atl Goianiense,26-168,1997,1.5,26,23,3,0,0,0,1,0,0,0,0,0,17,0,2,Matches,2024-05-18
+104,Deyverson,br BRA,FW,Cuiabá,33-010,1991,0.8,14,10,4,0,0,1,0,0,0,0,0,0,10,0,0,Matches,2024-05-18
+105,Matheus Dias,br BRA,DF,Internacional,27-101,1997,0.1,11,10,1,0,0,0,1,1,0,0,0,0,8,0,0,Matches,2024-05-18
+106,Diego,br BRA,DF,São Paulo,24-302,1999,5.0,373,357,16,9,0,3,5,7,0,0,0,0,322,0,5,Matches,2024-05-18
+107,Dodi,br BRA,MF,Grêmio,28-031,1996,2.0,57,54,3,3,0,0,0,0,0,0,0,0,49,0,0,Matches,2024-05-18
+108,Dudu,br BRA,MF,Vitória,24-348,1999,2.3,129,120,9,6,0,0,2,3,0,0,0,0,101,0,2,Matches,2024-05-18
+109,Edenílson,br BRA,FW,Grêmio,34-152,1989,0.5,23,23,0,0,0,0,0,0,0,0,0,0,21,0,0,Matches,2024-05-18
+110,Éder,it ITA,FW,Criciúma,37-185,1986,1.0,30,29,1,0,0,0,1,0,0,0,0,0,20,0,3,Matches,2024-05-18
+111,Carlos Eduardo,br BRA,FW,Atlético Mineiro,19-360,2004,0.1,11,10,1,0,0,0,0,1,0,0,0,0,11,0,0,Matches,2024-05-18
+112,Carlos Eduardo,br BRA,FW,Botafogo (RJ),34-214,1989,1.0,30,27,3,1,0,0,0,0,0,0,0,0,26,0,0,Matches,2024-05-18
+113,Kauã Elias,br BRA,"MF,FW",Fluminense,18-051,2006,1.0,22,20,2,0,1,0,0,0,0,0,0,0,17,0,0,Matches,2024-05-18
+114,Rafael Elias,br BRA,FW,Cruzeiro,25-036,1999,1.1,24,23,1,0,0,0,0,0,0,0,0,0,17,0,1,Matches,2024-05-18
+115,Eliédson,br BRA,MF,Criciúma,21-062,2003,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches,2024-05-18
+116,Rodrigo Ely,br BRA,DF,Grêmio,30-197,1993,3.0,157,151,5,5,0,2,0,0,0,0,0,0,133,1,1,Matches,2024-05-18
+117,Alan Empereur,br BRA,DF,Cuiabá,30-069,1994,2.9,152,139,9,8,0,3,2,1,0,0,0,0,121,4,1,Matches,2024-05-18
+118,Endrick,br BRA,"FW,MF",Palmeiras,17-302,2006,5.0,103,92,10,3,0,5,3,4,0,0,0,0,74,1,3,Matches,2024-05-18
+119,Erick,br BRA,MF,Ath Paranaense,26-186,1997,5.9,269,262,6,4,0,1,2,2,0,0,0,0,229,1,2,Matches,2024-05-18
+120,Erick,br BRA,"DF,MF",São Paulo,26-160,1997,1.4,58,47,11,1,0,1,9,6,4,2,0,0,43,0,6,Matches,2024-05-18
+121,Erick,br BRA,FW,Juventude,27-136,1997,3.1,56,51,5,0,0,0,4,1,0,0,0,0,41,0,3,Matches,2024-05-18
+122,Lucas Esquivel,ar ARG,DF,Ath Paranaense,22-217,2001,5.7,314,269,45,5,0,0,19,40,0,0,0,0,247,0,6,Matches,2024-05-18
+123,Estevão,br BRA,"FW,DF",Palmeiras,18-024,2006,2.8,77,71,6,2,0,2,6,0,4,1,1,0,57,0,2,Matches,2024-05-18
+124,Lucas Esteves,br BRA,DF,Vitória,23-329,2000,3.4,178,152,26,4,0,0,13,21,1,0,1,0,139,0,8,Matches,2024-05-18
+125,Oscar Estupiñan,co COL,FW,Bahia,27-141,1996,0.6,12,11,1,0,0,0,0,0,0,0,0,0,8,0,0,Matches,2024-05-18
+126,Lucas Evangelista,br BRA,MF,Red Bull Bragantino,29-012,1995,0.8,27,26,1,0,0,0,2,0,0,0,0,0,19,0,0,Matches,2024-05-18
+127,Éverson,br BRA,GK,Atlético Mineiro,33-301,1990,5.0,164,136,28,6,0,0,0,0,0,0,0,0,138,0,0,Matches,2024-05-18
+128,Everton,br BRA,FW,Grêmio,27-062,1997,0.4,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches,2024-05-18
+129,Bruno Fabiano Alves,br BRA,DF,Cuiabá,33-032,1991,2.2,86,84,2,2,0,0,0,0,0,0,0,0,81,0,0,Matches,2024-05-18
+130,Fabinho,br BRA,MF,Palmeiras,22-039,2002,0.4,28,28,0,0,0,0,1,0,0,0,0,0,21,0,1,Matches,2024-05-18
+131,Fábio,br BRA,GK,Fluminense,43-231,1980,6.0,174,125,49,10,0,0,0,0,0,0,0,0,149,0,1,Matches,2024-05-18
+132,Fábio,br BRA,DF,Grêmio,33-314,1990,2.3,113,95,17,0,0,1,2,17,0,0,0,0,86,1,1,Matches,2024-05-18
+133,Fagner,br BRA,"DF,MF",Corinthians,34-342,1989,4.3,211,157,54,8,0,3,16,40,6,2,4,0,160,0,6,Matches,2024-05-18
+134,Rodrigo Fagundes,br BRA,DF,Criciúma,37-069,1987,3.0,150,138,11,11,0,5,0,0,0,0,0,0,125,1,3,Matches,2024-05-18
+135,Luiz Felipe,br BRA,"DF,MF",Atl Goianiense,30-252,1993,2.1,79,75,4,3,0,0,1,1,0,0,0,0,60,0,1,Matches,2024-05-18
+136,Marcos Felipe,br BRA,GK,Bahia,28-035,1996,6.0,232,176,55,27,1,7,0,0,0,0,0,0,183,1,0,Matches,2024-05-18
+137,Lucas Fernandes,br BRA,MF,Cuiabá,26-241,1997,1.5,85,80,5,3,0,0,7,0,2,1,1,0,71,0,0,Matches,2024-05-18
+138,Matheus Fernandes,br BRA,MF,Red Bull Bragantino,25-323,1998,0.4,17,16,1,0,0,0,0,1,0,0,0,0,13,0,1,Matches,2024-05-18
+139,Nathan Fernandes,br BRA,"FW,MF",Grêmio,19-092,2005,1.3,42,35,7,0,1,0,1,3,4,0,0,0,34,0,4,Matches,2024-05-18
+140,Gatito Fernández,py PAR,GK,Botafogo (RJ),36-050,1988,3.0,96,69,26,8,0,0,0,0,0,0,0,0,74,1,0,Matches,2024-05-18
+141,Fernandinho,br BRA,MF,Ath Paranaense,39-014,1985,5.7,351,316,34,17,2,4,23,2,15,4,8,0,280,1,4,Matches,2024-05-18
+142,Fernando,br BRA,DF,Ath Paranaense,24-247,1999,0.2,4,1,3,0,0,0,0,3,0,0,0,0,0,0,0,Matches,2024-05-18
+143,Fernando,br BRA,"MF,DF",Internacional,36-298,1987,1.1,95,92,3,2,0,0,0,1,0,0,0,0,84,0,0,Matches,2024-05-18
+144,Luiz Fernando,br BRA,"FW,MF",Atl Goianiense,27-215,1996,4.9,108,105,2,0,0,0,4,0,0,0,0,0,70,1,5,Matches,2024-05-18
+145,Nahuel Ferraresi,ve VEN,DF,São Paulo,25-181,1998,1.8,148,135,13,6,0,0,2,7,0,0,0,0,137,0,1,Matches,2024-05-18
+146,Ferreira,br BRA,"MF,FW",São Paulo,26-139,1997,1.2,47,43,4,2,1,0,3,0,2,1,0,0,36,0,1,Matches,2024-05-18
+147,Filipinho,br BRA,"MF,FW",Ath Paranaense,22-213,2001,0.6,20,19,1,0,0,0,1,0,1,0,0,0,18,0,0,Matches,2024-05-18
+148,Alan Franco,ec ECU,MF,Atlético Mineiro,25-271,1998,4.0,181,173,6,3,1,0,3,1,2,0,1,0,154,2,4,Matches,2024-05-18
+149,Alan Franco,ar ARG,DF,São Paulo,27-220,1996,3.5,236,228,7,7,0,2,0,0,0,0,0,0,213,1,5,Matches,2024-05-18
+150,Lucas Freitas,br BRA,DF,Juventude,23-119,2001,0.4,13,13,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches,2024-05-18
+151,Marlon Freitas,br BRA,MF,Botafogo (RJ),29-052,1995,3.5,256,244,8,8,2,1,2,0,0,0,0,0,227,4,2,Matches,2024-05-18
+152,Bruno Fuchs,br BRA,DF,Atlético Mineiro,25-047,1999,0.9,72,70,2,2,0,0,1,0,0,0,0,0,67,0,0,Matches,2024-05-18
+153,Gabriel,br BRA,DF,Bahia,23-012,2001,5.0,293,270,23,15,0,5,0,0,0,0,0,0,245,0,3,Matches,2024-05-18
+154,Gabriel,br BRA,GK,Juventude,31-234,1992,4.0,130,92,38,10,0,0,0,0,0,0,0,0,115,0,0,Matches,2024-05-18
+155,Marquinhos Gabriel,br BRA,MF,Criciúma,33-302,1990,2.6,97,97,0,0,0,0,3,0,0,0,0,0,86,0,3,Matches,2024-05-18
+156,Zé Gabriel,br BRA,MF,Vasco da Gama,25-118,1999,0.7,45,42,2,2,0,0,0,0,0,0,0,0,38,1,0,Matches,2024-05-18
+157,Pablo Galdames Millán,cl CHI,MF,Vasco da Gama,27-140,1996,4.6,239,225,13,9,0,1,9,0,4,0,3,0,199,1,3,Matches,2024-05-18
+158,Giuliano Galoppo,ar ARG,MF,São Paulo,24-335,1999,1.7,71,68,1,0,0,0,3,0,0,0,0,0,56,2,2,Matches,2024-05-18
+159,Léo Gamalho,br BRA,FW,Vitória,38-109,1986,0.2,10,9,1,0,0,0,0,0,0,0,0,0,10,0,0,Matches,2024-05-18
+160,Mateo Gamarra,py PAR,DF,Ath Paranaense,23-211,2000,3.0,113,108,5,5,0,1,0,0,0,0,0,0,97,0,1,Matches,2024-05-18
+161,Ganso,br BRA,MF,Fluminense,34-219,1989,4.0,255,226,29,13,0,0,5,7,9,2,2,0,222,0,2,Matches,2024-05-18
+162,Luan Garcia,br BRA,DF,Palmeiras,31-008,1993,2.6,90,82,6,5,0,0,0,1,0,0,0,0,77,2,0,Matches,2024-05-18
+163,Rodrigo Garro,ar ARG,MF,Corinthians,26-135,1998,5.7,323,270,51,25,3,3,46,4,20,6,10,3,224,2,5,Matches,2024-05-18
+164,Pedro Geromel,br BRA,DF,Grêmio,38-240,1985,1.0,56,56,0,0,0,0,0,0,0,0,0,0,44,0,1,Matches,2024-05-18
+165,Gerson,br BRA,"FW,MF",Flamengo,26-364,1997,3.0,170,163,7,3,0,0,7,3,1,0,0,0,147,0,8,Matches,2024-05-18
+166,Gilberto,br BRA,FW,Juventude,34-348,1989,0.2,3,2,1,0,0,0,0,0,0,0,0,0,2,0,0,Matches,2024-05-18
+167,Luciano Giménez,ar ARG,FW,Cuiabá,24-090,2000,0.6,8,7,1,0,0,0,0,0,0,0,0,0,7,0,0,Matches,2024-05-18
+168,Giovane,br BRA,DF,Corinthians,20-176,2003,0.1,4,4,0,0,0,0,2,0,0,0,0,0,4,0,0,Matches,2024-05-18
+169,Leonardo Godoy,ar ARG,DF,Ath Paranaense,29-020,1995,4.5,213,170,40,2,0,0,17,38,0,0,0,0,143,3,4,Matches,2024-05-18
+170,Bruno Gomes,br BRA,MF,Internacional,23-044,2001,0.6,56,55,1,0,0,0,4,0,1,0,0,1,43,0,2,Matches,2024-05-18
+171,Igor Gomes,br BRA,MF,Atlético Mineiro,25-062,1999,2.2,127,121,6,2,1,1,7,1,3,1,0,0,107,0,3,Matches,2024-05-18
+172,Igor Gomes,br BRA,DF,Internacional,23-073,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2024-05-18
+173,William Gomes,br BRA,DF,São Paulo,18-064,2006,0.3,16,13,3,0,0,0,5,3,0,0,0,0,10,0,1,Matches,2024-05-18
+174,Gustavo Gómez,py PAR,DF,Palmeiras,31-012,1993,5.0,237,223,13,9,0,1,1,4,0,0,0,0,204,1,0,Matches,2024-05-18
+175,Mateus Gonçalves Martins,br BRA,"MF,FW",Vitória,29-233,1994,2.3,60,54,6,0,0,1,6,4,2,1,0,0,46,0,1,Matches,2024-05-18
+176,Yony González,co COL,"MF,FW",Atl Goianiense,29-312,1994,1.1,24,23,1,0,0,1,5,1,0,0,0,0,17,0,1,Matches,2024-05-18
+177,Gregore,br BRA,MF,Botafogo (RJ),30-077,1994,3.2,191,186,5,3,0,0,0,2,0,0,0,0,169,0,1,Matches,2024-05-18
+178,Guga,br BRA,DF,Fluminense,25-263,1998,0.6,44,27,17,2,0,0,0,15,0,0,0,0,41,0,2,Matches,2024-05-18
+179,Guilherme,br BRA,DF,Red Bull Bragantino,22-094,2002,1.2,50,33,17,1,0,0,2,16,0,0,0,0,30,0,0,Matches,2024-05-18
+180,Luis Guilherme,br BRA,"FW,DF",Palmeiras,18-099,2006,1.5,65,59,6,0,0,0,9,1,5,5,0,0,54,0,0,Matches,2024-05-18
+181,Zé Guilherme,br BRA,DF,Grêmio,19-063,2005,0.9,73,57,16,1,0,0,1,15,0,0,0,0,65,0,1,Matches,2024-05-18
+182,Gustavinho,br BRA,MF,Red Bull Bragantino,20-025,2004,4.3,144,126,17,4,0,2,24,0,12,3,7,0,99,1,1,Matches,2024-05-18
+183,Gustavo,br BRA,GK,Criciúma,31-069,1993,1.0,29,14,15,2,0,0,0,0,0,0,0,0,25,0,0,Matches,2024-05-18
+184,Lucas Halter,br BRA,DF,Botafogo (RJ),24-016,2000,4.8,265,261,4,4,0,0,0,0,0,0,0,0,243,0,2,Matches,2024-05-18
+185,Thiago Heleno,br BRA,DF,Ath Paranaense,35-244,1988,3.0,164,154,10,7,0,4,0,0,0,0,0,0,141,0,0,Matches,2024-05-18
+186,Helinho,br BRA,FW,Red Bull Bragantino,24-023,2000,1.2,58,46,12,4,1,0,11,0,8,5,2,0,30,0,4,Matches,2024-05-18
+187,Bruno Henrique,br BRA,FW,Flamengo,33-140,1990,4.3,113,112,1,0,0,0,7,1,0,0,0,0,82,0,6,Matches,2024-05-18
+188,Bruno Henrique,br BRA,MF,Internacional,34-210,1989,2.6,125,111,14,6,0,0,10,0,5,4,1,0,109,0,0,Matches,2024-05-18
+189,Gustavo Henrique,br BRA,DF,Corinthians,31-055,1993,2.8,118,114,4,4,0,0,0,0,0,0,0,0,107,0,0,Matches,2024-05-18
+190,Luiz Henrique,br BRA,"MF,FW",Botafogo (RJ),23-137,2001,3.6,87,85,2,0,0,1,3,0,1,0,0,0,63,0,10,Matches,2024-05-18
+191,Paulo Henrique,br BRA,DF,Vasco da Gama,27-298,1996,5.0,231,190,41,4,0,2,15,37,0,0,0,0,182,0,8,Matches,2024-05-18
+192,Pedro Henrique,br BRA,FW,Corinthians,33-337,1990,0.8,24,24,0,0,0,0,2,0,0,0,0,0,17,0,0,Matches,2024-05-18
+193,Pedro Henrique,br BRA,DF,Red Bull Bragantino,28-229,1995,3.0,153,148,4,4,0,3,1,0,0,0,0,0,113,1,0,Matches,2024-05-18
+194,Hércules,br BRA,MF,Fortaleza,23-211,2000,3.9,136,135,0,0,0,1,2,0,0,0,0,0,112,1,3,Matches,2024-05-18
+195,Marcelo Hermes,br BRA,"DF,MF",Criciúma,29-107,1995,3.0,110,92,17,3,0,1,5,14,0,0,0,0,77,1,9,Matches,2024-05-18
+196,Diego Hernández,uy URU,"FW,MF",Botafogo (RJ),23-331,2000,1.3,47,41,6,0,0,1,6,2,3,1,1,0,38,0,0,Matches,2024-05-18
+197,Lucca Holanda,br BRA,"FW,DF",Internacional,21-046,2003,1.4,19,19,0,0,0,0,1,0,0,0,0,0,12,0,2,Matches,2024-05-18
+198,Hugo,br BRA,"DF,MF",Corinthians,26-263,1997,5.6,286,222,64,5,0,0,3,59,0,0,0,0,227,0,5,Matches,2024-05-18
+199,Hugo,br BRA,DF,Botafogo (RJ),22-241,2001,4.0,182,143,39,6,1,1,11,27,6,4,2,0,146,0,7,Matches,2024-05-18
+200,Vitor Hugo Amorim,br BRA,MF,Cruzeiro,20-090,2004,0.3,7,6,1,1,0,0,1,0,0,0,0,0,6,0,0,Matches,2024-05-18
+201,José Hugo,br BRA,DF,Vitória,24-214,1999,0.3,16,16,0,0,0,0,2,0,0,0,0,0,12,0,0,Matches,2024-05-18
+202,Victor Hugo,br BRA,FW,Flamengo,20-007,2004,0.2,18,16,2,0,1,1,2,1,1,0,1,0,14,0,2,Matches,2024-05-18
+203,Hulk,br BRA,FW,Atlético Mineiro,37-298,1986,3.7,112,91,20,9,0,2,6,1,4,0,0,1,85,1,5,Matches,2024-05-18
+204,José Hurtado,ec ECU,DF,Red Bull Bragantino,22-147,2001,3.0,90,73,17,0,0,0,3,17,0,0,0,0,55,0,4,Matches,2024-05-18
+205,Igor,br BRA,MF,Flamengo,21-072,2003,0.5,16,15,1,1,0,0,0,0,0,0,0,0,13,0,0,Matches,2024-05-18
+206,Gabriel Inocêncio,br BRA,DF,Juventude,29-272,1994,3.0,151,129,22,1,0,0,5,21,0,0,0,0,123,0,3,Matches,2024-05-18
+207,Isaac,br BRA,DF,Fluminense,20-024,2004,0.1,8,7,1,0,0,0,1,1,0,0,0,0,7,0,0,Matches,2024-05-18
+208,Zé Ivaldo,br BRA,"DF,MF",Cruzeiro,27-087,1997,3.5,166,157,7,5,0,3,1,2,0,0,0,0,138,2,1,Matches,2024-05-18
+209,Jadsom,br BRA,MF,Red Bull Bragantino,22-364,2001,4.1,147,144,2,2,1,4,1,0,0,0,0,0,112,1,3,Matches,2024-05-18
+210,Jadson,br BRA,MF,Juventude,30-262,1993,3.0,142,138,3,2,0,0,1,1,0,0,0,0,119,1,3,Matches,2024-05-18
+211,Janderson,br BRA,"FW,DF",Vitória,25-012,1999,1.9,61,54,7,0,0,0,3,5,0,0,0,0,40,0,4,Matches,2024-05-18
+212,Léo Jardim,br BRA,GK,Vasco da Gama,29-059,1995,6.0,152,99,52,7,0,1,0,0,0,0,0,0,127,1,0,Matches,2024-05-18
+213,Jeffinho,br BRA,"FW,MF",Botafogo (RJ),24-140,1999,3.6,96,94,1,0,2,1,1,0,1,0,0,1,71,1,3,Matches,2024-05-18
+214,Jemerson,br BRA,DF,Atlético Mineiro,31-268,1992,2.3,127,118,8,8,0,0,1,0,0,0,0,0,109,1,1,Matches,2024-05-18
+215,Caíque de Jesus Gonçalves,br BRA,MF,Juventude,28-221,1995,3.8,213,200,11,11,0,1,1,0,0,0,0,0,183,2,6,Matches,2024-05-18
+216,John,br BRA,GK,Botafogo (RJ),28-095,1996,3.0,130,95,35,9,0,0,0,0,0,0,0,0,103,0,0,Matches,2024-05-18
+217,Felipe Jonatan,br BRA,DF,Fortaleza,26-093,1998,1.6,83,71,12,5,0,0,7,7,0,0,0,0,65,0,3,Matches,2024-05-18
+218,Daniel Jr,br BRA,"MF,FW",Vitória,22-009,2002,0.3,23,19,4,2,0,0,2,0,2,1,0,0,20,0,0,Matches,2024-05-18
+219,Luciano Juba,br BRA,DF,Bahia,24-263,1999,6.0,355,293,59,9,0,2,18,43,7,2,3,0,281,3,3,Matches,2024-05-18
+220,Julimar,br BRA,"FW,MF",Ath Paranaense,23-114,2001,3.4,91,87,2,0,0,0,4,1,1,0,0,0,69,2,3,Matches,2024-05-18
+221,Lucas Kal,br BRA,"MF,DF",Atl Goianiense,28-063,1996,1.3,40,38,2,2,0,1,2,0,0,0,0,0,32,0,1,Matches,2024-05-18
+222,Walter Kannemann,ar ARG,DF,Grêmio,33-065,1991,1.1,52,51,1,0,0,3,0,1,0,0,0,0,43,0,1,Matches,2024-05-18
+223,Kanu,br BRA,DF,Bahia,27-072,1997,4.0,193,182,11,10,0,3,0,1,0,0,0,0,172,0,2,Matches,2024-05-18
+224,Alan Kardec,br BRA,FW,Atlético Mineiro,35-127,1989,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches,2024-05-18
+225,Renato Kayser,br BRA,FW,Criciúma,28-091,1996,0.9,15,14,1,0,0,0,0,0,0,0,0,0,10,0,0,Matches,2024-05-18
+226,Renato Kayser,br BRA,FW,Fortaleza,28-091,1996,2.5,38,32,6,0,1,0,1,0,0,0,0,0,24,0,0,Matches,2024-05-18
+227,John Kennedy,br BRA,FW,Fluminense,22-000,2002,1.3,27,27,0,0,0,0,1,0,0,0,0,0,21,0,1,Matches,2024-05-18
+228,Keno,br BRA,FW,Fluminense,34-251,1989,0.9,25,25,0,0,0,0,2,0,0,0,0,0,17,0,1,Matches,2024-05-18
+229,Kleiton,br BRA,FW,Juventude,25-025,1999,0.3,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches,2024-05-18
+230,Gabriel Knesowitsch,br BRA,DF,Cuiabá,20-213,2003,1.8,85,83,2,2,0,0,0,0,0,0,0,0,72,0,1,Matches,2024-05-18
+231,Benjamín Kuscevic,cl CHI,DF,Fortaleza,28-016,1996,2.0,68,62,5,5,0,1,0,0,0,0,0,0,55,1,1,Matches,2024-05-18
+232,Derik Lacerda,br BRA,"MF,FW",Cuiabá,24-234,1999,2.7,42,41,1,0,0,0,0,1,0,0,0,0,35,0,1,Matches,2024-05-18
+233,Ignacio Laquintana,uy URU,"FW,MF",Red Bull Bragantino,25-107,1999,1.8,39,39,0,0,0,0,4,0,0,0,0,0,25,0,4,Matches,2024-05-18
+234,Lázaro,br BRA,"FW,MF",Palmeiras,22-067,2002,2.6,107,101,5,0,0,2,11,3,1,1,0,0,82,1,2,Matches,2024-05-18
+235,Mauricio Lemos,uy URU,DF,Atlético Mineiro,28-142,1995,2.7,180,165,14,4,0,3,0,10,0,0,0,0,156,1,0,Matches,2024-05-18
+236,Willean Lepo,br BRA,DF,Vitória,27-123,1997,0.8,37,32,5,0,0,0,2,5,0,0,0,0,31,0,2,Matches,2024-05-18
+237,Lima,br BRA,MF,Fluminense,27-342,1996,4.6,258,243,13,9,0,2,1,4,0,0,0,0,226,2,5,Matches,2024-05-18
+238,Lincoln,br BRA,MF,Red Bull Bragantino,25-193,1998,0.9,45,36,8,2,0,0,6,2,4,2,2,0,31,1,1,Matches,2024-05-18
+239,José López,ar ARG,"FW,DF",Palmeiras,23-164,2000,2.7,52,50,2,0,0,0,2,1,0,0,0,0,32,0,3,Matches,2024-05-18
+240,Lorran,br BRA,"MF,FW",Flamengo,17-319,2006,1.4,67,64,2,1,1,0,4,0,1,0,0,0,41,1,6,Matches,2024-05-18
+241,Vágner Love,br BRA,MF,Atl Goianiense,39-342,1984,0.4,9,9,0,0,0,0,1,0,0,0,0,0,7,0,0,Matches,2024-05-18
+242,Lucão,br BRA,GK,Red Bull Bragantino,23-082,2001,1.5,44,23,21,6,0,0,0,0,0,0,0,0,24,0,0,Matches,2024-05-18
+243,Ayrton Lucas,br BRA,DF,Flamengo,26-334,1997,5.7,257,213,44,9,0,0,13,35,0,0,0,0,210,0,7,Matches,2024-05-18
+244,Jean Lucas,br BRA,MF,Bahia,25-331,1998,6.0,243,235,7,4,0,2,3,3,0,0,0,0,203,1,7,Matches,2024-05-18
+245,João Lucas,br BRA,DF,Juventude,26-070,1998,4.0,213,176,35,2,0,1,16,33,0,0,0,0,159,2,10,Matches,2024-05-18
+246,Luciano,br BRA,"MF,FW",São Paulo,31-000,1993,5.7,195,186,7,2,2,2,2,1,1,0,0,0,158,2,4,Matches,2024-05-18
+247,André Luis,br BRA,"MF,FW",Cuiabá,27-027,1997,1.0,25,23,2,0,0,0,0,0,0,0,0,0,23,0,1,Matches,2024-05-18
+248,Machado,br BRA,MF,Cruzeiro,28-119,1996,0.5,23,22,1,1,0,0,0,0,0,0,0,0,21,0,0,Matches,2024-05-18
+249,Imanol Machuca,ar ARG,"MF,FW",Fortaleza,24-124,2000,1.6,57,45,12,1,0,0,17,0,10,5,5,0,32,0,7,Matches,2024-05-18
+250,Guilherme Madruga,br BRA,MF,Cuiabá,23-189,2000,0.3,13,13,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches,2024-05-18
+251,Mádson,br BRA,DF,Ath Paranaense,32-126,1992,1.5,57,48,9,0,0,0,2,9,0,0,0,0,46,0,0,Matches,2024-05-18
+252,Maguinho,br BRA,"DF,FW",Atl Goianiense,31-133,1993,2.0,39,32,7,0,0,0,4,7,0,0,0,0,25,0,0,Matches,2024-05-18
+253,Pablo Maia,br BRA,MF,São Paulo,22-129,2002,2.9,200,194,4,3,0,2,0,1,0,0,0,0,182,2,3,Matches,2024-05-18
+254,Thiago Maia,br BRA,MF,Internacional,27-056,1997,2.7,169,164,5,3,0,1,1,2,0,0,0,0,151,0,1,Matches,2024-05-18
+255,Walisson Maia,br BRA,DF,Criciúma,32-271,1991,2.2,82,80,2,2,0,1,0,0,0,0,0,0,63,0,0,Matches,2024-05-18
+256,Maicon,br BRA,DF,Vasco da Gama,35-247,1988,4.0,204,190,13,10,0,3,6,2,1,0,0,0,170,1,4,Matches,2024-05-18
+257,Hugo Mallo,es ESP,DF,Internacional,32-331,1991,0.8,42,33,9,1,0,0,1,8,0,0,0,0,35,0,0,Matches,2024-05-18
+258,Léo Mana,br BRA,DF,Corinthians,20-042,2004,0.1,13,10,3,0,0,0,0,3,0,0,0,0,9,0,0,Matches,2024-05-18
+259,Luis Mandaca,br BRA,"MF,FW",Juventude,22-229,2001,1.1,39,39,0,0,0,0,1,0,0,0,0,0,29,0,1,Matches,2024-05-18
+260,Manoel,br BRA,DF,Fluminense,34-082,1990,4.2,225,208,17,17,0,2,0,0,0,0,0,0,194,0,2,Matches,2024-05-18
+261,Fernando Marçal,br BRA,DF,Botafogo (RJ),35-089,1989,0.5,31,23,8,2,0,1,3,6,0,0,0,0,23,0,1,Matches,2024-05-18
+262,Marcelinho,br BRA,"MF,FW",Juventude,21-159,2002,1.7,45,39,6,3,0,0,7,0,3,0,2,0,36,0,0,Matches,2024-05-18
+263,Marcelo,br BRA,DF,Fluminense,36-006,1988,4.0,247,199,47,15,0,5,26,23,9,2,6,0,180,1,6,Matches,2024-05-18
+264,João Marcelo,br BRA,DF,Cruzeiro,23-340,2000,4.0,197,195,2,2,0,0,1,0,0,0,0,0,173,0,0,Matches,2024-05-18
+265,Agustín Marchesín,ar ARG,GK,Grêmio,36-063,1988,3.0,83,57,26,8,0,0,0,0,0,0,0,0,58,0,0,Matches,2024-05-18
+266,Zé Marcos,br BRA,DF,Juventude,26-107,1998,2.9,150,144,6,6,0,1,0,0,0,0,0,0,117,0,4,Matches,2024-05-18
+267,Erick Marcus,br BRA,"MF,FW",Vasco da Gama,20-078,2004,0.7,28,28,0,0,0,0,2,0,0,0,0,0,20,0,2,Matches,2024-05-18
+268,Marinho,br BRA,"FW,DF",Fortaleza,33-355,1990,2.7,79,65,14,3,0,0,11,1,10,3,2,1,51,0,5,Matches,2024-05-18
+269,Marlon,br BRA,DF,Cruzeiro,26-364,1997,5.0,294,257,37,6,0,5,11,31,0,0,0,0,251,0,4,Matches,2024-05-18
+270,Marquinhos,br BRA,"DF,FW",Fluminense,21-041,2003,6.0,281,246,35,3,0,6,23,31,1,0,1,0,215,0,6,Matches,2024-05-18
+271,Juan Martín Lucero,ar ARG,FW,Fortaleza,32-170,1991,2.4,29,28,1,0,0,0,0,0,0,0,0,0,19,0,2,Matches,2024-05-18
+272,Martinelli,br BRA,"MF,DF",Fluminense,23-008,2001,5.5,372,354,18,16,0,10,0,1,0,0,0,0,336,0,2,Matches,2024-05-18
+273,Adriano Martins,br BRA,DF,Atl Goianiense,27-047,1997,2.8,79,78,1,1,0,4,0,0,0,0,0,0,61,0,1,Matches,2024-05-18
+274,Gustavo Martins Santos,br BRA,DF,Grêmio,21-281,2002,2.9,176,175,1,0,0,0,0,1,0,0,0,0,164,0,0,Matches,2024-05-18
+275,Gonzalo Mastriani,uy URU,FW,Ath Paranaense,31-020,1993,1.6,40,37,3,0,1,0,1,0,0,0,0,0,26,0,1,Matches,2024-05-18
+276,Fellipe Mateus,br BRA,MF,Criciúma,33-096,1991,2.9,93,84,8,2,0,0,6,1,4,0,3,0,79,1,1,Matches,2024-05-18
+277,Matheusinho,br BRA,"FW,MF",Vitória,26-213,1997,4.4,127,112,14,5,0,0,13,2,7,5,1,0,102,1,4,Matches,2024-05-18
+278,Matheusinho,br BRA,"FW,MF",Criciúma,26-097,1998,0.3,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0,Matches,2024-05-18
+279,Matheuzinho,br BRA,"DF,FW",Corinthians,23-253,2000,2.2,112,86,25,5,0,0,12,18,2,0,2,0,88,1,3,Matches,2024-05-18
+280,Mauricio,br BRA,MF,Internacional,22-362,2001,3.7,126,115,11,1,0,0,14,1,9,6,1,0,91,0,5,Matches,2024-05-18
+281,Max,br BRA,"MF,FW",Atl Goianiense,21-325,2002,0.5,12,11,1,0,0,0,0,0,0,0,0,0,9,0,0,Matches,2024-05-18
+282,Max,br BRA,MF,Cuiabá,23-006,2001,0.2,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches,2024-05-18
+283,Maycon,br BRA,MF,Corinthians,26-308,1997,0.5,33,33,0,0,0,0,0,0,0,0,0,0,26,0,0,Matches,2024-05-18
+284,Mayke,br BRA,DF,Palmeiras,31-190,1992,3.8,196,162,34,4,0,0,10,30,0,0,0,0,151,0,6,Matches,2024-05-18
+285,Gary Medel,cl CHI,DF,Vasco da Gama,36-289,1987,1.2,75,71,4,4,0,0,0,0,0,0,0,0,67,0,0,Matches,2024-05-18
+286,Felipe Melo,br BRA,DF,Fluminense,40-327,1983,2.3,110,109,1,1,1,1,0,0,0,0,0,0,93,0,1,Matches,2024-05-18
+287,Douglas Mendes,br BRA,DF,Red Bull Bragantino,19-340,2004,3.0,88,81,7,7,0,2,1,0,0,0,0,0,66,0,3,Matches,2024-05-18
+288,Nathan Mendes,br BRA,DF,Red Bull Bragantino,21-273,2002,3.0,149,108,41,0,0,0,1,41,0,0,0,0,113,0,6,Matches,2024-05-18
+289,Gabriel Menino,br BRA,MF,Palmeiras,23-232,2000,3.1,178,159,17,8,0,2,14,2,7,6,0,0,143,2,3,Matches,2024-05-18
+290,Gabriel Mercado,ar ARG,DF,Internacional,37-061,1987,2.5,121,116,5,5,0,0,1,0,0,0,0,0,111,0,1,Matches,2024-05-18
+291,Higor Meritão,br BRA,MF,Criciúma,29-330,1994,2.8,123,121,2,2,0,0,1,0,0,0,0,0,113,0,1,Matches,2024-05-18
+292,Carlos Miguel,br BRA,GK,Corinthians,25-222,1998,3.0,92,66,26,4,0,0,0,0,0,0,0,0,79,0,0,Matches,2024-05-18
+293,Lucas Mineiro,br BRA,MF,Cuiabá,28-084,1996,1.1,37,36,1,1,0,0,0,0,0,0,0,0,30,0,2,Matches,2024-05-18
+294,Moises,br BRA,FW,Fortaleza,27-259,1996,1.5,54,51,3,1,0,3,2,2,0,0,0,0,38,0,2,Matches,2024-05-18
+295,Jacob Montes,ni NCA,"FW,MF",Botafogo (RJ),25-211,1998,0.2,7,7,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches,2024-05-18
+296,Aníbal Moreno,ar ARG,MF,Palmeiras,25-005,1999,3.9,187,183,3,3,1,3,0,0,0,0,0,0,161,1,1,Matches,2024-05-18
+297,Henry Mosquera,co COL,"FW,MF",Red Bull Bragantino,22-185,2001,4.3,74,74,0,0,0,0,6,0,0,0,0,0,50,0,6,Matches,2024-05-18
+298,Gustavo Mosquito,br BRA,FW,Corinthians,26-254,1997,1.8,46,45,1,0,0,0,5,1,0,0,0,0,37,0,2,Matches,2024-05-18
+299,Jean Mota,br BRA,MF,Vitória,30-216,1993,0.9,74,67,6,2,0,0,8,0,4,1,2,0,57,1,1,Matches,2024-05-18
+300,Hugo Moura,br BRA,MF,Vasco da Gama,26-136,1998,1.4,82,80,2,1,0,1,1,1,0,0,0,0,67,0,3,Matches,2024-05-18
+301,Léo Naldi,br BRA,MF,Vitória,22-274,2001,0.8,44,42,1,1,0,1,2,0,0,0,0,0,38,1,1,Matches,2024-05-18
+302,Matheus Nascimento,br BRA,FW,Botafogo (RJ),20-076,2004,0.3,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches,2024-05-18
+303,Nata,br BRA,"MF,DF",Grêmio,22-348,2001,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches,2024-05-18
+304,Kaiky Naves,br BRA,FW,Palmeiras,22-010,2002,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches,2024-05-18
+305,Nenê,br BRA,"MF,FW",Juventude,42-304,1981,3.0,121,100,20,7,0,1,18,3,7,5,2,0,76,1,6,Matches,2024-05-18
+306,Neris,br BRA,DF,Cruzeiro,31-336,1992,2.6,115,112,2,2,0,2,0,0,0,0,0,0,101,1,3,Matches,2024-05-18
+307,Rodrigo Nestor,br BRA,"MF,FW",São Paulo,23-283,2000,1.8,114,99,13,1,0,2,11,9,3,0,2,0,88,2,3,Matches,2024-05-18
+308,José Vitor Silva Neves,br BRA,"FW,MF",Ath Paranaense,24-016,2000,1.0,54,54,0,0,0,1,0,0,0,0,0,0,43,0,0,Matches,2024-05-18
+309,Newton,br BRA,MF,Criciúma,24-067,2000,0.2,7,7,0,0,0,0,0,0,0,0,0,0,5,0,1,Matches,2024-05-18
+310,Nikão,br BRA,"FW,MF",Ath Paranaense,31-294,1992,1.3,54,52,2,0,0,1,2,0,2,2,0,0,48,0,2,Matches,2024-05-18
+311,Gustavo Nunes,br BRA,FW,Grêmio,18-180,2005,2.3,89,87,2,0,1,0,5,0,2,0,0,0,64,0,6,Matches,2024-05-18
+312,Cauly Oliveira Souza,br BRA,"MF,FW",Bahia,28-246,1995,5.1,231,203,27,12,2,0,20,1,9,0,8,0,181,1,2,Matches,2024-05-18
+313,Leo Ortiz,br BRA,DF,Flamengo,28-136,1996,1.0,53,48,4,4,0,1,0,0,0,0,0,0,44,1,1,Matches,2024-05-18
+314,Osvaldo,br BRA,"MF,FW",Vitória,37-037,1987,2.7,61,56,5,2,0,0,9,2,0,0,0,0,38,0,4,Matches,2024-05-18
+315,Otávio,br BRA,MF,Atlético Mineiro,30-014,1994,5.0,320,316,3,3,0,2,2,0,0,0,0,0,290,1,5,Matches,2024-05-18
+316,Pablo,br BRA,"FW,MF",Ath Paranaense,31-330,1992,4.2,130,125,4,1,1,1,1,0,0,0,0,0,102,1,2,Matches,2024-05-18
+317,Pablo,br BRA,DF,Botafogo (RJ),32-332,1991,0.3,18,18,0,0,0,0,0,0,0,0,0,0,16,0,0,Matches,2024-05-18
+318,Bruno Pacheco,br BRA,DF,Fortaleza,32-162,1991,3.4,120,92,25,3,0,1,4,22,0,0,0,0,77,3,4,Matches,2024-05-18
+319,Patryck,br BRA,DF,São Paulo,21-121,2003,1.0,49,40,9,1,0,0,4,8,0,0,0,0,41,0,0,Matches,2024-05-18
+320,Patrick de Paula,br BRA,MF,Botafogo (RJ),24-253,1999,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1,Matches,2024-05-18
+321,Paulinho,br BRA,FW,Atlético Mineiro,23-308,2000,4.5,147,147,0,0,0,0,2,0,0,0,0,0,125,0,6,Matches,2024-05-18
+322,Paulinho,br BRA,MF,Corinthians,35-298,1988,1.3,60,53,7,7,0,0,0,0,0,0,0,0,53,0,0,Matches,2024-05-18
+323,Cristian Pavón,ar ARG,FW,Grêmio,28-118,1996,1.2,52,51,1,0,0,0,7,1,0,0,0,0,39,0,1,Matches,2024-05-18
+324,Dimitri Payet,fr FRA,MF,Vasco da Gama,37-050,1987,1.2,87,80,7,2,0,0,7,3,2,2,0,0,74,0,0,Matches,2024-05-18
+325,Pedrão,br BRA,DF,Atl Goianiense,31-152,1992,1.2,47,45,2,2,0,0,0,0,0,0,0,0,34,0,0,Matches,2024-05-18
+326,Pedrinho,br BRA,MF,Atlético Mineiro,26-035,1998,0.3,20,20,0,0,0,1,0,0,0,0,0,0,17,0,1,Matches,2024-05-18
+327,Pedro,br BRA,FW,Flamengo,26-333,1997,5.0,74,72,2,0,0,0,0,0,0,0,0,0,54,0,2,Matches,2024-05-18
+328,João Pedro,br BRA,FW,Cruzeiro,21-106,2003,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches,2024-05-18
+329,João Pedro,br BRA,MF,Vasco da Gama,19-029,2005,0.2,10,10,0,0,0,0,0,0,0,0,0,0,8,0,0,Matches,2024-05-18
+330,João Pedro,it ITA,FW,Grêmio,32-070,1992,2.3,34,31,3,0,0,0,0,0,0,0,0,0,27,0,0,Matches,2024-05-18
+331,João Pedro,br BRA,DF,Grêmio,27-185,1996,3.0,158,134,24,3,0,0,6,21,0,0,0,0,127,0,5,Matches,2024-05-18
+332,Léo Pelé,br BRA,DF,Vasco da Gama,28-073,1996,6.0,338,329,8,7,0,1,3,1,0,0,0,0,299,1,2,Matches,2024-05-18
+333,Carlos de Pena,uy URU,"MF,FW",Bahia,32-068,1992,0.8,63,51,12,9,1,1,7,0,3,1,2,0,42,0,1,Matches,2024-05-18
+334,Léo Pereira,br BRA,DF,Flamengo,28-108,1996,5.8,340,313,27,23,0,2,4,2,0,0,0,0,265,0,4,Matches,2024-05-18
+335,Matheus Pereira,pt POR,FW,Cruzeiro,28-013,1996,4.9,239,205,33,10,1,2,23,0,18,6,9,0,184,1,7,Matches,2024-05-18
+336,Yago Pikachu,br BRA,"DF,FW",Fortaleza,31-348,1992,2.6,68,63,5,1,0,0,5,3,1,0,1,0,49,0,5,Matches,2024-05-18
+337,Joaquín Piquerez,uy URU,DF,Palmeiras,25-268,1998,4.8,270,226,42,7,0,5,19,35,0,0,0,0,223,2,5,Matches,2024-05-18
+338,Rafael Pires,br BRA,GK,São Paulo,34-330,1989,6.0,149,115,34,10,0,1,0,0,0,0,0,0,120,0,1,Matches,2024-05-18
+339,Lucas Piton,br BRA,DF,Vasco da Gama,23-222,2000,6.0,361,291,69,12,0,0,51,45,12,1,10,0,284,1,16,Matches,2024-05-18
+340,Isidro Pitta,py PAR,FW,Cuiabá,24-278,1999,2.3,46,39,7,0,0,1,1,0,0,0,0,0,33,0,4,Matches,2024-05-18
+341,Tomas Pochettino,ar ARG,MF,Fortaleza,28-107,1996,3.6,118,97,20,10,1,2,22,0,9,1,7,1,82,1,4,Matches,2024-05-18
+342,Mateo Ponte,uy URU,DF,Botafogo (RJ),20-360,2003,3.3,128,104,24,4,0,0,9,20,0,0,0,0,103,0,6,Matches,2024-05-18
+343,Werik Popó,br BRA,FW,Juventude,22-214,2001,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches,2024-05-18
+344,Gustavo Prado,br BRA,"FW,MF",Internacional,18-347,2005,1.2,50,48,2,0,1,1,8,0,2,0,2,0,40,0,0,Matches,2024-05-18
+345,Bruno Praxedes,br BRA,MF,Vasco da Gama,22-100,2002,0.3,15,13,2,1,0,0,1,0,1,0,1,0,13,0,0,Matches,2024-05-18
+346,Erick Pulgar,cl CHI,MF,Flamengo,30-124,1994,3.5,159,158,1,1,0,0,0,0,0,0,0,0,136,0,1,Matches,2024-05-18
+347,Du Queiroz,br BRA,MF,Grêmio,24-120,2000,2.5,170,168,1,0,1,1,0,1,0,0,0,0,152,1,1,Matches,2024-05-18
+348,Igor Rabello,br BRA,DF,Atlético Mineiro,29-020,1995,2.1,131,128,3,3,0,0,0,0,0,0,0,0,121,0,0,Matches,2024-05-18
+349,Zé Rafael,br BRA,MF,Palmeiras,30-337,1993,1.0,42,40,2,2,0,0,0,0,0,0,0,0,35,0,1,Matches,2024-05-18
+350,Railan,br BRA,DF,Cuiabá,24-069,2000,1.0,29,27,2,1,0,0,1,1,0,0,0,0,27,0,0,Matches,2024-05-18
+351,Eric Ramires,br BRA,"MF,FW",Red Bull Bragantino,23-282,2000,3.5,95,91,4,0,1,0,7,1,0,0,0,0,78,0,4,Matches,2024-05-18
+352,Ramon,br BRA,DF,Cuiabá,23-066,2001,0.8,26,22,4,0,0,0,5,4,0,0,0,0,18,0,2,Matches,2024-05-18
+353,Raniele,br BRA,"MF,DF",Corinthians,27-139,1996,4.4,171,165,5,5,0,0,3,0,0,0,0,0,125,1,6,Matches,2024-05-18
+354,Rafael Ratão,br BRA,FW,Bahia,28-170,1995,0.4,17,17,0,0,0,0,0,0,0,0,0,0,13,0,1,Matches,2024-05-18
+355,Raul,br BRA,MF,Red Bull Bragantino,27-312,1996,1.4,48,47,1,1,0,1,0,0,0,0,0,0,43,0,0,Matches,2024-05-18
+356,Pedro Raul,br BRA,FW,Corinthians,27-195,1996,1.7,37,32,3,0,0,0,0,0,0,0,0,0,19,2,2,Matches,2024-05-18
+357,Robert Renan,br BRA,DF,Internacional,20-220,2003,1.1,71,67,3,3,0,1,0,0,0,0,0,0,61,1,0,Matches,2024-05-18
+358,Renê,br BRA,DF,Internacional,31-247,1992,4.0,294,252,42,18,0,4,5,24,0,0,0,0,224,0,1,Matches,2024-05-18
+359,Rezende,br BRA,"MF,DF",Bahia,29-137,1995,2.2,84,83,1,1,0,0,0,0,0,0,0,0,79,0,2,Matches,2024-05-18
+360,Rhaldney,br BRA,MF,Atl Goianiense,25-180,1998,2.7,103,97,6,4,0,2,0,0,0,0,0,0,88,0,0,Matches,2024-05-18
+361,Everton Ribeiro,br BRA,"MF,FW",Bahia,35-038,1989,4.6,256,245,10,3,1,1,4,1,6,0,0,0,214,1,5,Matches,2024-05-18
+362,Wesley Ribeiro,br BRA,FW,Corinthians,19-074,2005,4.7,109,99,10,2,0,4,15,5,3,1,0,0,81,0,5,Matches,2024-05-18
+363,João Ricardo Riedi,br BRA,GK,Fortaleza,35-255,1988,5.0,124,78,45,6,0,2,0,0,0,0,0,0,77,1,0,Matches,2024-05-18
+364,Rikelme,br BRA,DF,Cuiabá,20-307,2003,3.3,106,81,25,4,0,0,11,18,3,3,0,0,71,0,2,Matches,2024-05-18
+365,Rildo,br BRA,"MF,FW",Juventude,24-118,2000,0.4,11,11,0,0,0,0,0,0,0,0,0,0,7,0,1,Matches,2024-05-18
+366,Richard Ríos,co COL,MF,Palmeiras,23-351,2000,3.9,116,109,5,5,0,0,3,0,0,0,0,0,93,2,4,Matches,2024-05-18
+367,Robert,br BRA,DF,Cruzeiro,19-035,2005,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches,2024-05-18
+368,Kaique Rocha,br BRA,DF,Ath Paranaense,23-080,2001,6.0,277,261,16,11,0,0,0,0,0,0,0,0,238,0,0,Matches,2024-05-18
+369,Marcos Rocha,br BRA,DF,Palmeiras,35-159,1988,2.2,161,130,31,4,0,1,7,27,0,0,0,0,121,0,6,Matches,2024-05-18
+370,Sergio Rochet,uy URU,GK,Internacional,31-056,1993,4.0,109,64,44,14,0,0,0,0,0,0,0,0,74,1,0,Matches,2024-05-18
+371,Rodrigo,br BRA,MF,São Paulo,20-063,2004,0.6,24,21,3,1,0,0,3,1,1,1,0,0,20,0,1,Matches,2024-05-18
+372,Emiliano Rodríguez,uy URU,FW,Atl Goianiense,20-307,2003,3.1,56,50,5,0,0,0,4,0,0,0,0,0,36,1,3,Matches,2024-05-18
+373,James Rodríguez,co COL,MF,São Paulo,32-311,1991,0.4,45,39,6,1,0,1,5,1,4,2,2,0,34,0,4,Matches,2024-05-18
+374,Robert Rojas,py PAR,DF,Vasco da Gama,28-018,1996,0.0,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches,2024-05-18
+375,Guilherme Romão,br BRA,DF,Atl Goianiense,26-224,1997,5.0,227,170,56,6,0,0,10,50,0,0,0,0,152,1,3,Matches,2024-05-18
+376,Ángel Romero,py PAR,FW,Corinthians,31-319,1992,4.5,117,110,7,2,1,1,10,3,0,0,0,0,85,0,10,Matches,2024-05-18
+377,Lucas Romero,ar ARG,MF,Cruzeiro,30-030,1994,3.9,245,231,13,12,0,2,0,1,0,0,0,0,215,1,4,Matches,2024-05-18
+378,Óscar Romero,py PAR,"FW,MF",Botafogo (RJ),31-319,1992,1.5,67,58,9,2,0,1,6,2,5,4,1,0,44,0,7,Matches,2024-05-18
+379,Rômulo,br BRA,DF,Atlético Mineiro,20-108,2004,0.5,20,20,0,0,0,0,0,0,0,0,0,0,18,0,0,Matches,2024-05-18
+380,Romulo,br BRA,MF,Internacional,24-078,2000,0.9,29,28,1,1,0,0,0,0,0,0,0,0,25,0,0,Matches,2024-05-18
+381,Romulo,br BRA,MF,Palmeiras,22-224,2001,0.6,35,32,3,0,0,0,8,0,3,1,1,0,23,0,4,Matches,2024-05-18
+382,Ronald,br BRA,MF,Grêmio,21-097,2003,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches,2024-05-18
+383,Ronaldo,br BRA,GK,Atl Goianiense,27-270,1996,5.0,142,89,53,14,0,1,0,0,0,0,0,0,98,0,0,Matches,2024-05-18
+384,Budiga Roni,br BRA,MF,Atl Goianiense,25-033,1999,1.5,60,58,2,2,0,2,1,0,0,0,0,0,49,0,1,Matches,2024-05-18
+385,Rony,br BRA,FW,Palmeiras,29-007,1995,3.5,41,39,2,0,0,0,2,1,0,0,0,0,27,0,2,Matches,2024-05-18
+386,Matheus Rossetto,br BRA,MF,Fortaleza,27-350,1996,1.0,52,49,2,1,0,0,0,1,0,0,0,0,44,1,0,Matches,2024-05-18
+387,Rossi,br BRA,FW,Vasco da Gama,31-026,1993,2.4,77,69,8,2,0,0,24,1,5,0,5,0,45,0,5,Matches,2024-05-18
+388,Agustín Rossi,ar ARG,GK,Flamengo,28-271,1995,6.0,245,198,46,12,0,0,0,0,0,0,0,0,182,1,0,Matches,2024-05-18
+389,Ruan,br BRA,"MF,FW",Juventude,19-015,2005,0.5,9,8,1,0,0,0,1,1,0,0,0,0,8,0,0,Matches,2024-05-18
+390,Rubens,br BRA,DF,Atlético Mineiro,22-332,2001,0.1,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches,2024-05-18
+391,Alan Ruschel,br BRA,DF,Juventude,34-269,1989,1.0,62,46,16,5,0,0,8,9,2,1,1,0,50,0,1,Matches,2024-05-18
+392,Rodrigo Sam,br BRA,DF,Juventude,28-299,1995,1.7,83,80,3,3,0,1,0,0,0,0,0,0,75,0,1,Matches,2024-05-18
+393,Alex Santana,br BRA,"MF,FW",Ath Paranaense,29-005,1995,1.1,48,46,2,0,0,0,0,2,0,0,0,0,44,0,1,Matches,2024-05-18
+394,Ademir Santos,br BRA,"FW,MF",Bahia,29-092,1995,2.0,58,57,1,0,0,0,6,1,0,0,0,0,42,0,0,Matches,2024-05-18
+395,Allyson Aires dos Santos,br BRA,DF,Cuiabá,33-208,1990,1.0,37,36,1,0,0,0,0,1,0,0,0,0,35,0,1,Matches,2024-05-18
+396,Eduardo Santos,br BRA,DF,Red Bull Bragantino,26-172,1997,2.5,120,116,4,4,0,1,1,0,0,0,0,0,99,0,4,Matches,2024-05-18
+397,Juan Santos,br BRA,FW,São Paulo,22-073,2002,0.7,10,7,2,0,0,0,0,0,0,0,0,0,7,1,0,Matches,2024-05-18
+398,Júnior Santos,br BRA,"FW,MF",Botafogo (RJ),29-220,1994,4.8,108,104,4,0,0,0,8,2,0,0,0,0,83,0,7,Matches,2024-05-18
+399,Renzo Saravia,ar ARG,DF,Atlético Mineiro,30-337,1993,5.0,347,313,34,7,0,1,7,26,1,0,0,0,296,0,8,Matches,2024-05-18
+400,Eduardo Sasha,br BRA,FW,Red Bull Bragantino,32-084,1992,4.2,99,94,5,0,0,0,3,0,0,0,0,0,59,0,5,Matches,2024-05-18
+401,Lucas Sasha,br BRA,MF,Fortaleza,34-078,1990,1.1,42,40,2,1,1,0,3,0,1,0,0,0,33,0,0,Matches,2024-05-18
+402,Jefferson Savarino,ve VEN,"MF,FW",Botafogo (RJ),27-189,1996,4.0,154,138,15,4,1,2,14,0,9,4,4,1,121,1,4,Matches,2024-05-18
+403,Gustavo Scarpa,br BRA,"MF,FW",Atlético Mineiro,30-134,1994,3.5,257,218,37,1,0,9,40,18,18,7,3,0,193,2,5,Matches,2024-05-18
+404,Cleiton Schwengber,br BRA,GK,Red Bull Bragantino,26-273,1997,4.5,157,103,53,19,0,1,0,0,0,0,0,0,104,1,0,Matches,2024-05-18
+405,Juan Sforza,ar ARG,MF,Vasco da Gama,22-094,2002,4.6,305,296,8,6,0,7,0,1,0,0,0,0,271,1,1,Matches,2024-05-18
+406,Shaylon,br BRA,"MF,FW",Atl Goianiense,27-021,1997,4.8,192,148,40,17,0,1,36,3,19,6,13,0,131,4,1,Matches,2024-05-18
+407,André Silva,br BRA,"MF,FW",São Paulo,26-350,1997,3.1,79,78,1,0,0,2,8,1,0,0,0,0,55,0,5,Matches,2024-05-18
+408,Luan Silva,br BRA,MF,Vitória,25-004,1999,1.5,60,58,2,2,0,0,0,0,0,0,0,0,56,0,1,Matches,2024-05-18
+409,Lucas Silva,br BRA,MF,Cruzeiro,31-092,1993,4.2,197,178,18,3,0,0,7,0,10,2,4,0,164,1,3,Matches,2024-05-18
+410,Rafael Silva,br BRA,FW,Cruzeiro,32-044,1992,3.9,73,72,1,0,0,0,2,0,0,0,0,0,61,0,6,Matches,2024-05-18
+411,Everton Soares,br BRA,FW,Flamengo,28-057,1996,1.6,32,30,2,1,0,0,3,1,0,0,0,0,23,0,2,Matches,2024-05-18
+412,Tiquinho Soares,br BRA,FW,Botafogo (RJ),33-122,1991,2.2,54,47,7,1,1,1,0,3,0,0,0,0,40,0,1,Matches,2024-05-18
+413,Fernando Sobral,br BRA,MF,Cuiabá,29-153,1994,3.2,154,142,12,6,0,0,12,3,3,0,3,0,121,0,5,Matches,2024-05-18
+414,Yeferson Soteldo,ve VEN,FW,Grêmio,26-323,1997,3.0,118,115,3,2,0,1,8,1,0,0,0,0,98,0,4,Matches,2024-05-18
+415,Igor Vinícius de Souza,br BRA,DF,São Paulo,27-047,1997,5.4,343,280,61,11,0,0,29,36,14,0,10,0,278,2,2,Matches,2024-05-18
+416,Everaldo Stum,br BRA,FW,Bahia,32-318,1991,2.8,70,69,1,0,0,1,5,1,0,0,0,0,49,0,3,Matches,2024-05-18
+417,Damián Suárez,uy URU,DF,Botafogo (RJ),36-021,1988,2.6,127,105,21,0,0,1,6,21,0,0,0,0,101,1,4,Matches,2024-05-18
+418,Talisson,br BRA,FW,Red Bull Bragantino,21-363,2002,0.2,4,4,0,0,0,0,1,0,0,0,0,0,1,0,0,Matches,2024-05-18
+419,Tchê Tchê,br BRA,MF,Botafogo (RJ),31-262,1992,3.1,142,133,9,3,0,3,4,0,4,1,3,0,125,0,1,Matches,2024-05-18
+420,David Terans,uy URU,"MF,FW",Fluminense,29-281,1994,0.6,17,14,3,0,0,0,1,1,1,0,1,0,13,0,0,Matches,2024-05-18
+421,Thaciano,br BRA,FW,Bahia,29-006,1995,5.2,114,105,6,0,0,2,5,0,0,0,0,0,80,3,5,Matches,2024-05-18
+422,Thiaguinho,br BRA,MF,Juventude,27-037,1997,0.5,28,25,3,2,0,1,1,0,0,0,0,0,22,0,1,Matches,2024-05-18
+423,Guilherme Tinga,br BRA,DF,Fortaleza,30-260,1993,4.1,185,141,42,4,0,1,11,38,0,0,0,0,133,2,7,Matches,2024-05-18
+424,Titi,br BRA,DF,Fortaleza,36-067,1988,5.0,143,133,10,9,0,0,0,1,0,0,0,0,111,0,2,Matches,2024-05-18
+425,Félix Torres Caicedo,ec ECU,DF,Corinthians,27-128,1997,6.0,357,348,9,6,0,1,1,3,0,0,0,0,310,0,4,Matches,2024-05-18
+426,Miguel Trauco,pe PER,"DF,MF",Criciúma,31-267,1992,1.1,56,46,10,2,0,1,1,8,0,0,0,0,44,0,1,Matches,2024-05-18
+427,Bruno Tubarão,br BRA,DF,Atl Goianiense,29-074,1995,4.0,172,144,27,4,0,0,12,23,0,0,0,0,126,1,4,Matches,2024-05-18
+428,Bruno Uvini,br BRA,DF,Vitória,32-350,1991,3.0,116,109,6,6,0,1,0,0,0,0,0,0,100,1,0,Matches,2024-05-18
+429,Vanderlan,br BRA,DF,Palmeiras,21-254,2002,1.2,28,21,7,0,0,0,2,7,0,0,0,0,17,0,0,Matches,2024-05-18
+430,Guillermo Varela,uy URU,DF,Flamengo,31-055,1993,3.7,201,169,32,3,0,0,12,29,0,0,0,0,167,0,6,Matches,2024-05-18
+431,Eduardo Vargas,cl CHI,FW,Atlético Mineiro,34-180,1989,1.5,47,44,3,0,0,2,3,1,0,0,0,0,37,0,3,Matches,2024-05-18
+432,Pablo Vegetti,ar ARG,FW,Vasco da Gama,35-216,1988,5.8,91,74,17,0,0,1,1,0,0,0,0,0,62,0,3,Matches,2024-05-18
+433,Raphael Veiga,br BRA,MF,Palmeiras,28-334,1995,4.4,167,129,36,13,0,1,29,2,20,12,6,0,119,2,0,Matches,2024-05-18
+434,Fausto Vera,ar ARG,MF,Corinthians,24-053,2000,2.1,126,123,3,3,0,1,0,0,0,0,0,0,110,0,0,Matches,2024-05-18
+435,Gabriel Veron,br BRA,"FW,MF",Cruzeiro,21-258,2002,0.9,32,32,0,0,0,0,1,0,0,0,0,0,25,0,1,Matches,2024-05-18
+436,João Victor,br BRA,DF,Vasco da Gama,25-306,1998,2.4,142,126,14,2,0,0,1,12,0,0,0,0,115,2,2,Matches,2024-05-18
+437,Felipe Vieira,,DF,Fluminense,,,1.5,79,77,2,2,0,0,0,0,0,0,0,0,70,0,2,Matches,2024-05-18
+438,Mathías Villasanti,py PAR,MF,Grêmio,27-115,1997,4.0,258,244,14,12,2,0,1,2,0,0,0,0,234,0,5,Matches,2024-05-18
+439,Matías Viña,uy URU,DF,Flamengo,26-191,1997,1.1,51,41,10,0,0,0,5,10,0,0,0,0,41,0,2,Matches,2024-05-18
+440,Alix Vinicius,br BRA,DF,Atl Goianiense,24-194,1999,3.5,128,123,5,5,0,2,0,0,0,0,0,0,110,0,0,Matches,2024-05-18
+441,Mateus Vital,br BRA,MF,Cruzeiro,26-096,1998,0.8,35,35,0,0,0,0,1,0,0,0,0,0,29,0,1,Matches,2024-05-18
+442,Vitão,br BRA,DF,Internacional,24-106,2000,4.0,262,251,10,10,0,3,2,0,0,0,0,0,225,1,0,Matches,2024-05-18
+443,Vitinho,br BRA,"FW,MF",Red Bull Bragantino,25-047,1999,4.0,129,110,19,5,0,2,22,4,10,5,2,0,88,0,5,Matches,2024-05-18
+444,Rayan Vitor,br BRA,"FW,MF",Vasco da Gama,17-289,2006,1.9,50,45,5,0,1,0,5,2,3,2,0,0,39,0,1,Matches,2024-05-18
+445,Felipe Vizeu,br BRA,FW,Criciúma,27-067,1997,0.3,14,14,0,0,1,0,0,0,0,0,0,0,10,0,1,Matches,2024-05-18
+446,Wagner,br BRA,DF,Vitória,24-300,1999,3.1,156,147,8,6,0,1,0,2,0,0,0,0,135,1,2,Matches,2024-05-18
+447,Walter,br BRA,GK,Cuiabá,36-182,1987,4.0,126,88,37,10,0,0,0,0,0,0,0,0,95,1,0,Matches,2024-05-18
+448,Wanderson,br BRA,"FW,MF",Internacional,29-224,1994,2.0,41,39,1,0,0,0,4,0,1,1,0,0,25,1,2,Matches,2024-05-18
+449,Welington,br BRA,DF,São Paulo,23-089,2001,2.6,129,98,31,7,0,1,12,21,3,0,2,0,104,0,1,Matches,2024-05-18
+450,José Welison,br BRA,MF,Fortaleza,29-068,1995,1.7,60,55,5,5,0,0,2,0,0,0,0,0,45,0,1,Matches,2024-05-18
+451,Wesley,br BRA,DF,Flamengo,20-255,2003,1.3,56,45,11,0,0,0,4,11,0,0,0,0,49,0,1,Matches,2024-05-18
+452,Wesley,br BRA,"FW,MF",Internacional,25-049,1999,3.4,121,117,4,0,1,3,16,0,4,2,1,0,83,0,4,Matches,2024-05-18
+453,Wéverton,br BRA,GK,Palmeiras,36-157,1987,6.0,219,174,44,10,0,0,0,0,0,0,0,0,152,1,0,Matches,2024-05-18
+454,William,br BRA,DF,Cruzeiro,29-045,1995,5.0,310,261,48,7,0,0,29,41,0,0,0,0,238,1,11,Matches,2024-05-18
+455,Willian,br BRA,MF,Vitória,31-002,1993,4.0,147,142,5,4,0,0,0,1,0,0,0,0,128,0,1,Matches,2024-05-18
+456,Samuel Xavier,br BRA,DF,Fluminense,33-347,1990,2.5,129,101,27,4,0,1,5,22,1,0,0,0,110,1,3,Matches,2024-05-18
+457,Bruno Zapelli,ar ARG,"MF,FW",Ath Paranaense,22-001,2002,2.6,132,113,19,5,1,0,18,0,11,5,3,0,98,0,4,Matches,2024-05-18
+458,Federico Zaracho,ar ARG,MF,Atlético Mineiro,26-069,1998,3.1,133,132,1,0,0,3,3,1,0,0,0,0,113,0,3,Matches,2024-05-18
+459,Zeca,br BRA,DF,Vitória,30-002,1994,4.3,227,185,42,6,0,1,18,36,0,0,0,0,168,0,9,Matches,2024-05-18
